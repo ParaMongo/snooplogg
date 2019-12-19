@@ -31,7 +31,7 @@
     "supports-color": "^7.0.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.5.5",
+    "@babel/core": "^7.7.7",
     "@babel/plugin-transform-modules-commonjs": "^7.5.0",
     "@babel/register": "^7.5.5",
     "ansi-colors": "^4.1.1",
